@@ -41,3 +41,27 @@
 			<img src="activities/aquarium.jpeg" alt ="aquarium">
 			<label><input type="checkbox" name="activities" value ="aquarium">aquarium</label>
 		</div>
+<div class="activity-item">
+			<img src="activities/arcade.jpeg" alt ="arcade">
+			<label><input type="checkbox" name="activities" value ="arcade">arcade</label>
+		</div>
+		<div class="activity-item">
+			<img src="activities/cinema.jpeg" alt ="cinema">
+			<label><input type="checkbox" name="activities" value ="cinema">cinema</label>
+		</div>
+		<div class="activity-item">
+			<img src="activities/keramika.jpeg" alt ="ceramics">
+   <label><input type="checkbox" name="activities" value ="ceramics">ceramics</label>
+		</div>
+		<div class="activity-item">
+			<img src="activities/kunsthalle.jpeg" alt ="kunsthalle">
+			<label><input type="checkbox" name="activities" value ="kunsthalle">exhibition</label>
+		</div>
+		<div class="activity-item">
+			<img src="activities/park.jpeg" alt ="park.jpeg">
+			<label><input type="checkbox" name="activities" value ="park.jpeg">park</label>
+		</div>
+	</div>
+	<button onclick="location.href='lastpage.html'">Last page</button>
+ </body>
+</html>
